@@ -26,6 +26,7 @@ graph LR
     style C fill:none,stroke:none
     style D fill:none,stroke:none
 ```
+![graph](img/graph.png)
 
 ## Paraméterek
 
@@ -82,6 +83,7 @@ Paraméter módosítása futtatáskor:
 ```bash
 ros2 run ben_d91_autonom emergency_brake_node --ros-args -p stop_distance:=1.5
 ```
+![futtatás](img/futtatás.png)
 
 ### Ellenőrzés
 
